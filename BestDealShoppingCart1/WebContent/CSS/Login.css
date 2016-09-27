@@ -1,0 +1,74 @@
+table {
+	margin: auto;
+    width: 50%;
+	border: 4px solid #919191;
+	border-collapse: collapse;
+	margin-top: 100px;
+	height: 380px;
+}
+th{
+	background: #d9d9d9;
+    color: #606060;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+}
+tr{background-color: #f2f2f2}
+th, td {
+    padding: 8px;
+}
+form div{
+	width:100%;
+	float:left;
+	margin: 4px;
+}
+.credentials{
+	height: 30px;
+	width:300px;
+    border: 2px solid #b8b8b8;
+    border-radius: 3px;
+	font-family: Arial;
+	font-size:16px;
+	font-weight: bold;
+	padding: 2px;
+}
+.registerButtons{
+	float: right;
+	width: 300px;
+    height: 45px;
+    border: #f07a29;
+	border-radius: 3px;
+	color:#FFFFFF;
+    font-weight: bold;
+	font-size: 16px;
+	cursor:pointer;
+	margin:0 auto;
+}
+#loginButton{
+	background-color: #000082;
+}
+#loginButton:hover{
+	background-color:#00225b;
+}
+#signUpButton{
+	background-color:#d1203c;
+}
+#signUpButton:hover{
+	background-color:#a5192f;
+}
+#signupLink{
+	color: #FFFFFF;
+    text-decoration: none;
+}
+#enterDiv{
+	width: 303px;
+    margin: auto;
+}
+#Message{
+	font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    color: red;
+    width: 70%;
+	margin-left:90px;
+}

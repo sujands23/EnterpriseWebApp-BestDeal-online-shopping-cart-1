@@ -1,0 +1,98 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+	border: 4px solid #919191;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover{
+	background-color:#11429d;
+	cursor:pointer;
+    color:white;
+    font-weight: bold;
+       }
+
+td img:hover{
+	transform: scale(3);
+	left: 75px;
+}
+th {
+    background-color: #000082;
+    color: white;
+    font-family: Arial;
+}
+
+#AddToCartButton{
+	float:right;
+	width: 250px;
+	height:50px;
+	color: black;
+	background-color: #ff9f00;
+    border: none;
+    border-radius: 2px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial;
+    font-weight:bold;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+#AddToCartButton:hover{
+	background-color:#ee6b11;
+}
+#pageTitle{
+	width:33%;
+	float:left;
+}
+#loginId{
+	width:33%;
+	float:left;
+	text-align:center;
+}
+#CartDisplay{
+	width:33%;
+	float:left;
+	text-align: right;
+}
+.total{
+	background: #d9d9d9;
+    color: #606060;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+}
+#AddToCartDiv{
+	width:100%;
+}
+#customerLinks a{
+	color:white;
+	font-family: arial;
+    margin-left: 10px;
+    font-weight: bold;
+	text-decoration:none;
+}
+#customerLinks a:hover{
+	text-decoration:underline;
+}
+#managerLinks a{
+	color:white;
+	font-family: arial;
+    margin-left: 10px;
+    font-weight: bold;
+	text-decoration:none;
+}
+#managerLinks a:hover{
+	text-decoration:underline;
+}
+#links{
+	background-color:#000040;
+}

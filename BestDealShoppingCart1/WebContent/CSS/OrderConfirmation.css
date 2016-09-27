@@ -1,0 +1,40 @@
+table {
+    width: 100%;
+	border: 4px solid #919191;
+	border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    font-family: SANS-SERIF;
+	border: 3px solid #d9d9d9;
+}
+
+tr{background-color: #f2f2f2}
+
+th {
+    background-color: #000080;
+    color: white;
+    font-family: Arial;
+    font-size:16px;
+}
+td ul {
+       list-style: none;
+}
+.total{
+	background: #d9d9d9;
+    color: #606060;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+}
+#pageTitle{
+	width:50%;
+	float:left;
+}
+#loginId{
+	width:50%;
+	float:left;
+	text-align:center;
+}

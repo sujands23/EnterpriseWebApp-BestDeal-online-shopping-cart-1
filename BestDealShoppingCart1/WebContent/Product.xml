@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productsList>
+<product>
+	<productID>P001</productID>
+	<category>Mobile</category>
+	<productName >Galaxy Grand</productName >
+	<brand>Samsung</brand>
+	<description>Dual Sim, 4G LTE</description>
+	<price>300.00</price>
+	<image>SamsungMobile.jpg</image>
+	<quantityAvailable>3</quantityAvailable>
+	<accessories>
+		<accessory>Earphone</accessory>
+		<accessory>Wireless Charger</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P002</productID>
+	<category>Mobile</category>
+	<productName >Iphone 7</productName >
+	<brand>Apple</brand>
+	<description>Jet Black,12 MP, IOS 10</description>
+	<price>650.00</price>
+	<image>AppleMobile.jpg</image>
+	<quantityAvailable>10</quantityAvailable>
+	<accessories>
+		<accessory>Wireless Earphone</accessory>
+		<accessory>Aux cable</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P003</productID>
+	<category>Mobile</category>
+	<productName >Moto G</productName >
+	<brand>Motorola</brand>
+	<description>Sleek and stylish</description>
+	<price>250.50</price>
+	<image>MotorolaMobile.jpg</image>
+	<quantityAvailable>6</quantityAvailable>
+	<accessories>
+		<accessory>Earphone</accessory>
+		<accessory>Wireless Charger</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P004</productID>
+	<category>Mobile</category>
+	<productName >One Plus 2</productName >
+	<brand>1+</brand>
+	<description>SnapDragon, AMOLED, 6GB RAM</description>
+	<price>399.00</price>
+	<image>OnePlusMobile.jpg</image>
+	<quantityAvailable>8</quantityAvailable>
+	<accessories>
+		<accessory>Earphone</accessory>
+		<accessory>USB cable</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P005</productID>
+	<category>Mobile</category>
+	<productName >One</productName >
+	<brand>HTC</brand>
+	<description>Stereo speaker</description>
+	<price>450.00</price>
+	<image>HTCMobile.jpg</image>
+	<quantityAvailable>0</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P006</productID>
+	<category>Tablet</category>
+	<productName >ipad</productName >
+	<brand>Apple</brand>
+	<description>Super performance, 128GB</description>
+	<price>299.00</price>
+	<image>Tablet1Apple.jpg</image>
+	<quantityAvailable>7</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P007</productID>
+	<category>Tablet</category>
+	<productName >Kindle</productName >
+	<brand>Amazon</brand>
+	<description>Low light, more apps</description>
+	<price>99</price>
+	<image>Tablet2Amazon.jpg</image>
+	<quantityAvailable>6</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P008</productID>
+	<category>Tablet</category>
+	<productName>Yoga</productName >
+	<brand>Lenovo</brand>
+	<description>With flip</description>
+	<price>200</price>
+	<image>Tablet3Lenovo.jpg</image>
+	<quantityAvailable>5</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P009</productID>
+	<category>Tablet</category>
+	<productName >Nexus7</productName >
+	<brand>Google</brand>
+	<description>Stereo speaker</description>
+	<price>300.00</price>
+	<image>Tablet4Nexus.jpg</image>
+	<quantityAvailable>0</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P010</productID>
+	<category>Tablet</category>
+	<productName>Funbook</productName >
+	<brand>Micromax</brand>
+	<description>Low price, good battery life</description>
+	<price>450.00</price>
+	<image>Tablet5Micromax.jpg</image>
+	<quantityAvailable>0</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P011</productID>
+	<category>Laptop</category>
+	<productName>E210 laptop</productName >
+	<brand>Acer</brand>
+	<description>Sleek and durable</description>
+	<price>450.00</price>
+	<image>Laptop1Acer.jpg</image>
+	<quantityAvailable>7</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P012</productID>
+	<category>Laptop</category>
+	<productName>P500 laptop</productName >
+	<brand>Lenovo</brand>
+	<description>Light weight and flip</description>
+	<price>675.00</price>
+	<image>Laptop2Lenovo.jpg</image>
+	<quantityAvailable>7</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P013</productID>
+	<category>Laptop</category>
+	<productName>WQ100</productName >
+	<brand>Microsoft</brand>
+	<description>Sleek and durable</description>
+	<price>299.00</price>
+	<image>Laptop3Microsoft.jpg</image>
+	<quantityAvailable>4</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P014</productID>
+	<category>Laptop</category>
+	<productName>Inspiron</productName >
+	<brand>Acer</brand>
+	<description>Sleek and durable</description>
+	<price>650.00</price>
+	<image>Laptop4Dell.jpg</image>
+	<quantityAvailable>7</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P015</productID>
+	<category>Laptop</category>
+	<productName>Vaio Laptop</productName >
+	<brand>Sony</brand>
+	<description>Great colors, super fast</description>
+	<price>840.00</price>
+	<image>Laptop5Sony.jpg</image>
+	<quantityAvailable>12</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P016</productID>
+	<category>TV</category>
+	<productName>KLV 32</productName >
+	<brand>Sony</brand>
+	<description>32 inches</description>
+	<price>1200.00</price>
+	<image>TV1Sony.jpg</image>
+	<quantityAvailable>12</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P017</productID>
+	<category>TV</category>
+	<productName>Curved TV</productName >
+	<brand>Samsung</brand>
+	<description>Ultra HD, LED display</description>
+	<price>1800.00</price>
+	<image>TV2Samsung.jpg</image>
+	<quantityAvailable>5</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P018</productID>
+	<category>TV</category>
+	<productName>Golden Eye TV</productName >
+	<brand>LG</brand>
+	<description>40 inches, cheap</description>
+	<price>999.00</price>
+	<image>TV3LG.jpg</image>
+	<quantityAvailable>12</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P019</productID>
+	<category>TV</category>
+	<productName>Super snap TV</productName >
+	<brand>Letv</brand>
+	<description>Full HD TV</description>
+	<price>1220.00</price>
+	<image>TV4Letv.jpg</image>
+	<quantityAvailable>12</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+<product>
+	<productID>P020</productID>
+	<category>TV</category>
+	<productName>pana view TV</productName >
+	<brand>Panasonic</brand>
+	<description>Ideal viewing angle</description>
+	<price>850.00</price>
+	<image>TV5Panasonic.jpg</image>
+	<quantityAvailable>12</quantityAvailable>
+	<accessories>
+		<accessory>Speakers</accessory>
+		<accessory>Flip cover</accessory>
+	</accessories>
+</product>
+</productsList>
