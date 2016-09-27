@@ -10,5 +10,6 @@ public class GithubPOC {
 		System.out.println("Product name	:	"+prod.getProductName());
 		
 		System.out.println("Added after initial commit");
+		System.out.println("Second change after initial commit");
 	}
 }
